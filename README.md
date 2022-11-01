@@ -1,4 +1,2 @@
 # hello-world
-kbuy
-veb
-okay 
+hello secound 
